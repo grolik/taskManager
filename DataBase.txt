@@ -1,0 +1,4 @@
+CREATE TABLE `fh79378p_taskman`.`tasks` ( `id` INT(4) NOT NULL AUTO_INCREMENT , `name` VARCHAR(32) NOT NULL , `email` VARCHAR(32) NOT NULL , `text` TEXT NOT NULL , `done` INT(1) NOT NULL DEFAULT '0', PRIMARY KEY (`id`)) ENGINE = InnoDB;
+
+
+INSERT INTO `tasks`(`name`, `email`, `text`) VALUES ("Вася", "email@email.com", "Первая задача")
