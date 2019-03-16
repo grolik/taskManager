@@ -38,7 +38,7 @@
 			</div>
 		</div>
 			
-<?php if ($page['isAdmin']): ?>
+<?php if ($isAdmin): ?>
 			<div class="dropleft my-2 my-sm-0 ">
 			<button class="btn btn-sm btn-outline-info dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			    admin

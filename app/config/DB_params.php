@@ -1,13 +1,7 @@
 <?php
-
 return array(
-	
-	'host' => 'localhost',
-	
-	'dbname' => 'h79378p_taskman',
-	
-	'user' => 'h79378p_taskman',
-	
-	'password' => 'hC9i%ln',
-	
+    'host' => 'localhost',
+    'dbname' => 'fh79378p_taskman',
+    'user' => 'fh79378p_taskman',
+    'password' => 'JhC9i%ln',
 );
