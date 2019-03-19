@@ -1,5 +1,5 @@
 # taskManager
-MVC task manager
+MVC task manager Работающий пример: http://fh79378p.bget.ru/taskManager/
 
 ТЗ:
 Необходимо Создать приложение-задачник.
